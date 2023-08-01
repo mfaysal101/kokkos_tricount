@@ -1,0 +1,15 @@
+%%MatrixMarket matrix coordinate real symmetric
+%-------------------------------------------------------------------------------
+% fields: title A Zeros name id date author ed kind
+% kind: undirected unweighted graph
+%-------------------------------------------------------------------------------
+4 4 4
+0	1
+0	2
+0	3
+1	0
+2	0
+2	3
+3	0
+3	2
+
