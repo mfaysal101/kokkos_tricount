@@ -1,9 +1,9 @@
 To build linear-algebra-based triangle counting for CPU using the Makefile provided
 
 1. Put the file "tricount_with_view.cpp" and "csrmat.h" in the same directory
-2. Issue the 'make' command assuming "KOKKOS_PATH" is set to directory where kokkos is installed
+2. Issue the 'make' command assuming "KOKKOS_PATH" is set to the directory where kokkos is installed
 
-To run in CPU
+To run on CPU
 1. Issue the command './generated_executable.host   input_graph.mtx'
 
 ######################################################################
